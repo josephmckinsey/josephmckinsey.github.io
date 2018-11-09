@@ -1,16 +1,39 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What am I interested in
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I'm Joseph McKinsey. Things I'm interested include (sorted in terms of current familiarity not interest):
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Functional Programming
+  - Haskell
+  - Racket (dialect of lisp)
+- Algorithms
+- Numerical Approximation
+- Numerical Partial Differential Equations
+- Number Theory
+- Utility functions
+- Interval Arithmetic
+- Linear Algebra
+- Game Theory
+- Computational Geometry
+- Stochastic Modeling
+- Scientific Visualization
+- Type theory
+- Bayesian Statistics
+- Category Theory
+- Macroeconomics
+- Fourier Analysis
+- Information Theory
+- Perturbation Theory
+- Scala
+- Erlang
+- Elm
 
-What else do you need?
+### Other Links
 
-### my history
+#### [Resume](https://github.com/josephmckinsey/resume/blob/master/resume.pdf)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### [LinkedIn](https://www.linkedin.com/in/joseph-mckinsey-356195146/)
+
