@@ -19,7 +19,7 @@ There are a lot of proofs whose clever simplicitly is [worth writing down](https
 - Chebyshev's Inequality
 - The theorem that there are two irrational numbers a and b with ab rational
 - Poincaire Recurrence Theorem
-- [$q-norm <= p-norm if p < q$](https://math.stackexchange.com/questions/367899/q-norm-leq-p-norm)
+- [q-norm <= p-norm if $p < q$](https://math.stackexchange.com/questions/367899/q-norm-leq-p-norm)
 - [If in a list of $n$ vectors, each is within $\frac{1}{\sqrt{n}}$ of an orthogonal basis, then your vectors are independent](https://math.stackexchange.com/questions/1732753/proving-a-basis-for-inner-product-space-v-when-e-j-v-j-frac1-sqrtn).
 - Proof of linear independence of $e^{a t}$.
 - Double counting proof that $\sum_{i=0}^n \binom{n}{i}^2 = \binom{2 n}{i}$.
