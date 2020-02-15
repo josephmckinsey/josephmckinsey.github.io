@@ -25,3 +25,4 @@ There are a lot of proofs whose clever simplicitly is (worth writing down)[https
 - Double counting proof that $\sum_{i=0}^n \binom{n}{i}^2 = \binom{2 n}{i}$.
 - Double counting proof that $\sum_{i=0}^j (-1)^i \binom{n}{i} = (-1)^j \binom{n-1}{k}$.
 - Proof that continuous bijections from a compact space to a hausdorff space is a homeomorphism.
+- (Irrationality of 21/n for n≥3: if 21/n=p/q then pn=qn+qn, contradicting Fermat's Last Theorem. Unfortunately FLT is not strong enough to prove 2–√ irrational.)[https://mathoverflow.net/questions/42512/awfully-sophisticated-proof-for-simple-facts/44742#44742]
