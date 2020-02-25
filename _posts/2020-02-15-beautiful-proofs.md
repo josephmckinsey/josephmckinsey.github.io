@@ -27,3 +27,4 @@ There are a lot of proofs whose clever simplicitly is [worth writing down](https
 - Double counting proof that $\sum_{k=0}^n k \binom{n}{i}^2 = n \binom{2 n - 1}{n}$
 - Proof that continuous bijections from a compact space to a hausdorff space is a homeomorphism.
 - [Irrationality of 21/n for n≥3: if 21/n=p/q then pn=qn+qn, contradicting Fermat's Last Theorem. Unfortunately FLT is not strong enough to prove 2–√ irrational.](https://mathoverflow.net/questions/42512/awfully-sophisticated-proof-for-simple-facts/44742#44742)
+- Proof of Euler Product Formula for the Riemann Zeta function ($\sum_{n=1}^\infty \frac{1}{n^s} = \prod_{p \in \mathrm{primes}} \frac{1}{1 - p^{-s}}$.
